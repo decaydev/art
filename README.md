@@ -1,2 +1,3 @@
-# art
-decay.dev artwork assets
+# Decay.dev Artwork
+
+Artwork assets for the site, skins, and plugin identification
