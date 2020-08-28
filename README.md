@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/93mSYZ4/decay.png" alt="decay.dev" width="256"/>
+<img src="https://raw.githubusercontent.com/decaydev/art/master/decay.png" width=320>
 
 # Decay.dev Artwork
 
